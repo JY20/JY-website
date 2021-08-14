@@ -7,6 +7,9 @@ import {
   Redirect,
 } from "react-router-dom";
 import Button from "react-bootstrap/Button";
+import Home from "./home";
+import E from "./e";
+import Projects from "./projects";
 
 class Menu extends React.Component {
   render() {
@@ -45,10 +48,13 @@ class Menu extends React.Component {
                 <Redirect to="/home" />
             </Route>
             <Route path="/home">
+              <Home height={this.props.height} width={this.props.width}/>
             </Route>
             <Route path="/e">
+              <E height={this.props.height} width={this.props.width}/>
             </Route>
             <Route path="/projects">
+              <Projects height={this.props.height} width={this.props.width}/>
             </Route>
             <Route path="/resume">
                 window.open("https://casesandberg.github.io/react-color/", "_blank") 

@@ -1,6 +1,8 @@
 import React from "react";
 import "./App.css";
 import Home from "./pages/home";
+import Menu from "./pages/menu";
+import Footer from "./pages/footer";
 
 class App extends React.Component {
   constructor(props) {
@@ -31,7 +33,9 @@ class App extends React.Component {
     return (
       <div className="App">
         <header className="App-header" style={{background:""}}>
-          <Home height={this.state.height} width={this.state.width} />
+          <Menu height={this.state.height} width={this.state.width} />
+          {/* <Home height={this.state.height} width={this.state.width} /> */}
+          <Footer height={this.state.height} width={this.state.width} />
         </header>
       </div>
     );
