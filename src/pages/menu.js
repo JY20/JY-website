@@ -44,8 +44,8 @@ class Menu extends React.Component {
           </section>
           <br />
           <Switch>
-            <Route exact path="/">
-                <Redirect to="/home" />
+            <Route exact path="/JY-website">
+                <Redirect to="/home"/>
             </Route>
             <Route path="/home">
               <Home height={this.props.height} width={this.props.width}/>
