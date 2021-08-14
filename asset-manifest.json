@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/JY-website/static/css/main.a617e044.chunk.css",
-    "main.js": "/JY-website/static/js/main.b171528a.chunk.js",
-    "main.js.map": "/JY-website/static/js/main.b171528a.chunk.js.map",
+    "main.js": "/JY-website/static/js/main.ccb35db2.chunk.js",
+    "main.js.map": "/JY-website/static/js/main.ccb35db2.chunk.js.map",
     "runtime-main.js": "/JY-website/static/js/runtime-main.41c99608.js",
     "runtime-main.js.map": "/JY-website/static/js/runtime-main.41c99608.js.map",
-    "static/js/2.4cb57023.chunk.js": "/JY-website/static/js/2.4cb57023.chunk.js",
-    "static/js/2.4cb57023.chunk.js.map": "/JY-website/static/js/2.4cb57023.chunk.js.map",
+    "static/js/2.b258b8be.chunk.js": "/JY-website/static/js/2.b258b8be.chunk.js",
+    "static/js/2.b258b8be.chunk.js.map": "/JY-website/static/js/2.b258b8be.chunk.js.map",
     "static/js/3.a00d6b88.chunk.js": "/JY-website/static/js/3.a00d6b88.chunk.js",
     "static/js/3.a00d6b88.chunk.js.map": "/JY-website/static/js/3.a00d6b88.chunk.js.map",
     "index.html": "/JY-website/index.html",
     "static/css/main.a617e044.chunk.css.map": "/JY-website/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.4cb57023.chunk.js.LICENSE.txt": "/JY-website/static/js/2.4cb57023.chunk.js.LICENSE.txt",
+    "static/js/2.b258b8be.chunk.js.LICENSE.txt": "/JY-website/static/js/2.b258b8be.chunk.js.LICENSE.txt",
     "static/media/mail.f110bc47.png": "/JY-website/static/media/mail.f110bc47.png"
   },
   "entrypoints": [
     "static/js/runtime-main.41c99608.js",
-    "static/js/2.4cb57023.chunk.js",
+    "static/js/2.b258b8be.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.b171528a.chunk.js"
+    "static/js/main.ccb35db2.chunk.js"
   ]
 }
