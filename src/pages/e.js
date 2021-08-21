@@ -10,40 +10,39 @@ class E extends React.Component {
             <p style={{height:"3px"}}/>
             <h3>Coding Instructor - CAC education</h3>
             <h5>Jul.2021 - Present</h5>
-            <h9>Preparing lessons and projects for grade 1 and 2 students</h9>
+            <h9>Instructing grade 1 and 2 students on coding through the platform Scratch</h9>
             <br/>
-            <h9>Instructing students about Scratch</h9>
+            <h9>Preparing weekly lessons and projects in Scratch to be use as learning materials</h9>
             <p style={{height:"3px"}}/>
           </section>
           <section style={{backgroundColor:"#284472", margin:"-22px"}}>
             <p style={{height:"3px"}}/>
             <h3>App Developer - Admass</h3>
-            <h5>Aug.2021 - Sep.2021</h5>
+            <h5>Aug.2021 - Present</h5>
             <h9>Working with others to develop a react native app within 4 weeks</h9>
             <br/>
-            <h9>Taking 20 screen UI design in Figma and develop it in react native</h9>
+            <h9>Complete given task on Jira such as taking Figma screen UI design and create it in react native</h9>
             <br/>
-            <h9>Integrate given API with the react native app</h9>            
+            <h9>Integrate given APIs with the react native app as well as testing the APIs in Postman</h9>            
             <p style={{height:"3px"}}/>
           </section>
           <section style={{backgroundColor:"#4a5e80", margin:"-22px"}}>
             <p style={{height:"3px"}}/>
             <h3>Software Developer - Italkrobot</h3>
             <h5>Jul.2020 - Apr.2021</h5>
-            <h9>Communicate with others to develop the new website with react js</h9>
+            <h9>Recreate the old company website with React JS</h9>
             <br/>
-            <h9>Planning and developing the new delta dispenser app with flutter and firebase</h9>
-            <br/>
-            <h9>Communicating with others to create a new hardware design with Inventor</h9>
+            <h9>Developing the new delta dispenser app with flutter and firebase as well as designing the new
+hardware design in Inventor</h9>
             <p style={{height:"3px"}}/>
           </section>
           <section style={{backgroundColor:"#284472", margin:"-22px"}}>
             <p style={{height:"3px"}}/>
             <h3>Researcher - The foundation for student science and technology</h3>
             <h5>Jul.2019 - Aug.2019</h5>
-            <h9>Work with the mentor to develop an app to detect different frog species</h9>
+            <h9>Communicate with the mentor over Slack to develop a frog species detection app</h9>
             <br/>
-            <h9>Developed the app through android studio</h9>
+            <h9>Developed the app through Android Studio within 2 month period</h9>
             <p style={{height:"3px"}}/>
           </section>
           <h1 style={{fontSize:"50px"}}>Volunteer Experiences</h1>
