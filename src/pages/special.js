@@ -40,6 +40,7 @@ class Special extends React.Component {
             if (this.state.email.toString() === this.state.users[i].toString()){
                 this.state.t1 = "Login Successful"
                 console.log("Login Successful")
+                break;
             } else {
                 this.state.t1 = "Credentials Invalid"
                 console.log("Credentials Invalid")
@@ -56,7 +57,7 @@ class Special extends React.Component {
           });
           this.setState({ info: info });
         });
-        console.log(this.state.info.length)
+        //console.log(this.state.info.length)
    }
 
   render() {
