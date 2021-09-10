@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import { firebase } from "./config";
 
 class Home extends React.Component {
   render() {

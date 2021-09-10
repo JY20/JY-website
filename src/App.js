@@ -13,6 +13,7 @@ class App extends React.Component {
     };
     this.updateWindowDimensions = this.updateWindowDimensions.bind(this);
   }
+
   componentDidMount() {
     this.updateWindowDimensions();
     window.addEventListener("resize", this.updateWindowDimensions.bind(this));
