@@ -39,7 +39,7 @@ class Menu extends React.Component {
                     Projects/Awards
                 </Button>
             </Link>
-            <Button onClick={()=> window.open("https://drive.google.com/file/d/1SykcPjBXv-MaUSC_J9CQjl1Q2CqkRVHx/view?usp=sharing", "_blank")}
+            <Button onClick={()=> window.open("https://drive.google.com/file/d/1vRfTaXS3LJvrTZGqeXPsdkZ9qxjAf5WV/view?usp=sharing", "_blank")}
              onMouseOver={MouseOver} onMouseOut={MouseOut} 
              style={{fontSize:"18px",background:"transparent",color:"white",border:"none", 
              width:this.props.width*0.169,  height:this.props.height*0.1}}>

@@ -18,7 +18,7 @@ class E extends React.Component {
           <section style={{backgroundColor:"#284472", margin:"-22px"}}>
             <p style={{height:"3px"}}/>
             <h3>App Developer - Admass</h3>
-            <h5>Aug.2021 - Present</h5>
+            <h5>Aug.2021 - Feb.2022</h5>
             <h9>Working in a team of 8 to develop a React Native social media influencer app within 4 weeks</h9>
             <br/>
             <h9>Complete given task on Jira such as taking Figma screen UI design and create it in react native</h9>

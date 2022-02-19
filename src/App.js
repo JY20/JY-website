@@ -42,5 +42,5 @@ class App extends React.Component {
     );
   }
 }
-
+// "homepage": "http://JY20.github.io/JY-website",
 export default App;
