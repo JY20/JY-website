@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/JY-website/static/css/main.a617e044.chunk.css",
-    "main.js": "/JY-website/static/js/main.0083c647.chunk.js",
-    "main.js.map": "/JY-website/static/js/main.0083c647.chunk.js.map",
-    "runtime-main.js": "/JY-website/static/js/runtime-main.7bf050ac.js",
-    "runtime-main.js.map": "/JY-website/static/js/runtime-main.7bf050ac.js.map",
-    "static/js/2.4745cfdb.chunk.js": "/JY-website/static/js/2.4745cfdb.chunk.js",
-    "static/js/2.4745cfdb.chunk.js.map": "/JY-website/static/js/2.4745cfdb.chunk.js.map",
-    "static/js/3.10e42c7c.chunk.js": "/JY-website/static/js/3.10e42c7c.chunk.js",
-    "static/js/3.10e42c7c.chunk.js.map": "/JY-website/static/js/3.10e42c7c.chunk.js.map",
-    "index.html": "/JY-website/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/JY-website/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.4745cfdb.chunk.js.LICENSE.txt": "/JY-website/static/js/2.4745cfdb.chunk.js.LICENSE.txt",
-    "static/media/mail.f110bc47.png": "/JY-website/static/media/mail.f110bc47.png"
+    "main.css": "/JY-website/index.html/static/css/main.a617e044.chunk.css",
+    "main.js": "/JY-website/index.html/static/js/main.39be3630.chunk.js",
+    "main.js.map": "/JY-website/index.html/static/js/main.39be3630.chunk.js.map",
+    "runtime-main.js": "/JY-website/index.html/static/js/runtime-main.cd759357.js",
+    "runtime-main.js.map": "/JY-website/index.html/static/js/runtime-main.cd759357.js.map",
+    "static/js/2.b5b93932.chunk.js": "/JY-website/index.html/static/js/2.b5b93932.chunk.js",
+    "static/js/2.b5b93932.chunk.js.map": "/JY-website/index.html/static/js/2.b5b93932.chunk.js.map",
+    "static/js/3.10e42c7c.chunk.js": "/JY-website/index.html/static/js/3.10e42c7c.chunk.js",
+    "static/js/3.10e42c7c.chunk.js.map": "/JY-website/index.html/static/js/3.10e42c7c.chunk.js.map",
+    "index.html": "/JY-website/index.html/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/JY-website/index.html/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b5b93932.chunk.js.LICENSE.txt": "/JY-website/index.html/static/js/2.b5b93932.chunk.js.LICENSE.txt",
+    "static/media/mail.f110bc47.png": "/JY-website/index.html/static/media/mail.f110bc47.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bf050ac.js",
-    "static/js/2.4745cfdb.chunk.js",
+    "static/js/runtime-main.cd759357.js",
+    "static/js/2.b5b93932.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.0083c647.chunk.js"
+    "static/js/main.39be3630.chunk.js"
   ]
 }
